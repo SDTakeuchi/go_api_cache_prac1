@@ -1,3 +1,9 @@
+/*
+下記ページを参考にした
+https://bmf-tech.com/posts/Golang%E3%81%A7%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%A2%E3%83%AA%E3%81%AA%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B
+*/
+
+
 package main
 
 import (
